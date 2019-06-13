@@ -1,0 +1,12 @@
+Script started on Thu 23 Feb 2017 09:27:48 AM PST
+]0;005178247@jb359-20:~/cse201/lab04[?1034h[005178247@jb359-20 lab04]$ ./a.out
+Please enter the initial balance of the investment: 5100
+Please enter the interest rate in percent: 4 11
+Please enter the number of years: 4
+Please enter compound payments: 4
+The initial balance was: $5100 after 4 years at 11 percent, the balance is now: $7871.9
+
+]0;005178247@jb359-20:~/cse201/lab04[005178247@jb359-20 lab04]$ exit
+exit
+
+Script done on Thu 23 Feb 2017 09:28:02 AM PST

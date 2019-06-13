@@ -1,0 +1,9 @@
+Script started on Tue 31 Jan 2017 12:35:37 PM PST
+]0;005178247@jb359-6:/students/csci/005178247/cse201/lab02]7;file://jb359-6.cse.csusb.edu/students/csci/005178247/cse201/lab02[?1034h[005178247@jb359-6 lab02]$ ./a.out
+bash: ./a.out: No such file or directory
+]0;005178247@jb359-6:/students/csci/005178247/cse201/lab02]7;file://jb359-6.cse.csusb.edu/students/csci/005178247/cse201/lab02[005178247@jb359-6 lab02]$ ."[K.[K.[K/a.out sc[Ktring.cpp_run.lst
+bash: ./a.out: No such file or directory
+]0;005178247@jb359-6:/students/csci/005178247/cse201/lab02]7;file://jb359-6.cse.csusb.edu/students/csci/005178247/cse201/lab02[005178247@jb359-6 lab02]$ cs[K[Kexit
+exit
+cl
+Script done on Tue 31 Jan 2017 12:36:12 PM PST

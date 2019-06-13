@@ -1,0 +1,82 @@
+Script started on Thu 23 Feb 2017 01:14:23 PM PST
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[?1034h[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Boston
+Please enter gallons purchased last year: 1100
+Please enter the number of gallons being bought: 15
+Please enter price per gallon: 3.09
+The total payment is: $41.715
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Worcester
+Please enter gallons purchased last year: 1300
+Please enter the number of gallons being bought: 20
+Please enter price per gallon: 3.09
+The total payment is: $56.238
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Lost    Angl eles
+Please enter gallons purchased last year: 1700
+Please enter the number of gallons being bought: 15
+Please enter price per gallon: 20  3.09
+The total payment is: $30.1275
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Cora ona
+Please enter gallons purchased last year: 1100
+Please enter the number of gallons being bought: . 10
+Please enter price per gallon: 3.09
+The total payment is: $6.18
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: r Riverside
+Please enter gallons purchased last year: 300
+Please enter the number of gallons being bought: 20
+Please enter price per gallon: 3.09
+The total payment is: $24.72
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Oakland
+Please enter gallons purchased last year: 1500
+Please enter the number of gallons being bought: 3 20
+Please enter price per gallon: 3.09
+The total payment is: $52.53
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Sacramento
+Please enter gallons purchased last year: 20  1400
+Please enter the number of gallons being bought: 20
+Please enter price per gallon: . 3.09
+The total payment is: $27.81
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Irvine
+Please enter gallons purchased last year: 1600
+Please enter the number of gallons being bought: 13  20
+Please enter price per gallon: 3.09
+The total payment is: $30.9
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Pasadena
+Please enter gallons purchased last year: 1500
+Please enter the number of gallons being bought: 20
+Please enter price per gallon: 3.09
+The total payment is: $24.72
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Fresno
+Please enter gallons purchased last year: 1600
+Please enter the number of gallons being bought: 2- 0
+Please enter price per gallon: 3.09
+The total payment is: $49.44
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ ./a.out
+Customer City: Alabama
+Please enter gallons purchased last year: 1400
+Please enter the number of gallons being bought: 20
+Please enter price per gallon: 3. .19
+The total payment is: $63.8
+
+]0;005178247@jb359-13:/students/csci/005178247/cse201/lab04]7;file://jb359-13.cse.csusb.edu/students/csci/005178247/cse201/lab04[005178247@jb359-13 lab04]$ exit
+exit
+
+Script done on Thu 23 Feb 2017 01:20:10 PM PST

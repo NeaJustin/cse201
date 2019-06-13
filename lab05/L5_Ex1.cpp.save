@@ -1,0 +1,39 @@
+/* 
+   CSE201-W17 Thursday Lab
+     @L5_Ex1.cpp
+     @Justin Pulido
+     @March 12, 2017
+
+   Description: The program allows the user to be able to purchase items
+		within the limits of their credit card. 
+
+   Algorithm: to do this, the user inputs the amount of their credit limit,
+	      and keeps track of the total things they buy. However, if they
+	      go over the limit, their purchase will not go through and give 
+	      an error. It is done by getting the credit limit and subtracting
+	      it from the item they are purchasing. The other things are for
+	      billing purposes. 
+		total = credit_limit - item_purchased
+		bool more= true;
+		if(item_purchased > credit limit){
+		   return true;
+		}else
+		   return false
+*/
+#include <iostream>
+#include 
+
+using namespace std;
+
+int main{
+
+   cout << "Please enter credit limit: ";
+   cin >> credit_limit;
+
+   cout << "Please enter Name: ";
+   get_line(cin, name);
+
+   cout << "Please enter address: ";
+   double;
+   get_line(cin, address);
+}

@@ -1,0 +1,14 @@
+Script started on Thu 16 Feb 2017 12:25:03 PM PST
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[?1034h[005178247@jb359-10 lab03]$ ./a.out
+Please enter the ammount of killowatts you used this month: 900
+Your total electricity bill is: $1440
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ ./a.out
+Please enter the ammount of killowatts you used this month: 1754
+Your total electricity bill is: $2543.3
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ ./a.out
+Please enter the ammount of killowatts you used this month: 10000
+Your total electricity bill is: $14500
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ exit
+exit
+
+Script done on Thu 16 Feb 2017 12:25:51 PM PST

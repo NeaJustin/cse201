@@ -1,0 +1,12 @@
+Script started on Tue 31 Jan 2017 12:20:31 PM PST
+]0;005178247@jb359-6:/students/csci/005178247/cse201/lab02]7;file://jb359-6.cse.csusb.edu/students/csci/005178247/cse201/lab02[?1034h[005178247@jb359-6 lab02]$ ./a.out
+please enter a value: 5
+please enter another value: 5
+please enter last value: 5
+the sum of 5 5 5 is: 15.
+the average of 15 is: 5.
+the log2 of 5 is: 2.32193.
+]0;005178247@jb359-6:/students/csci/005178247/cse201/lab02]7;file://jb359-6.cse.csusb.edu/students/csci/005178247/cse201/lab02[005178247@jb359-6 lab02]$ exit
+exit
+
+Script done on Tue 31 Jan 2017 12:20:43 PM PST

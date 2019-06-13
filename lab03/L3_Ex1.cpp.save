@@ -1,0 +1,10 @@
+/* 
+   CSE201-W17 Thursday lab
+   @file L3_Ex1.cpp
+   @Justin Pulido
+   @February 5, 2017
+
+   Description: calculates how much people will be given a discount for
+                when they use a certain amount of killowats per hour.
+
+   Algorithm:  

@@ -1,0 +1,17 @@
+Script started on Thu 16 Feb 2017 12:36:47 PM PST
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[?1034h[005178247@jb359-10 lab03]$ ./a.out
+Plese enter the amount of Killowats you used this month: 7
+Your electric bill is: $11.2
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ ./a.out
+Plese enter the amount of Killowats you used this month: 1300
+Your electric bill is: $1885
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ ..[K/a.out
+Plese enter the amount of Killowats you used this month: 1600
+Your electric bill is: $2240
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ ./a.out
+Plese enter the amount of Killowats you used this month: 2500
+Your electric bill is: $3375
+]0;005178247@jb359-10:/students/csci/005178247/cse201/lab03]7;file://jb359-10.cse.csusb.edu/students/csci/005178247/cse201/lab03[005178247@jb359-10 lab03]$ exit
+exit
+
+Script done on Thu 16 Feb 2017 12:37:45 PM PST

@@ -1,0 +1,32 @@
+Script started on Thu 16 Mar 2017 10:53:43 AM PDT
+]0;005178247@jb359-12:/students/csci/005178247/cse201/lab05]7;file://jb359-12.cse.csusb.edu/students/csci/005178247/cse201/lab05[?1034h[005178247@jb359-12 lab05]$ .a[K/a.out
+customers name: justin
+address: 10029 columbine Ave
+customer city: Montclair
+state: California
+zipcode: 91763
+customer credit limit: $5000
+The amount of: $5000the item purchased is too much for the amount of credit you have.
+the item amount of: $100 was purchased successfully.
+Your credit limit is now: $4900
+
+the item amount of: $10 was purchased successfully.
+Your credit limit is now: $4890
+
+the item amount of: $10 was purchased successfully.
+Your credit limit is now: $4880
+
+purchase made: 3
+after the icrease credit limit, neew credit limit is: 8000
+the item amount of: $1600 was purchased successfully.
+Your credit limit is now: $6280
+
+the item amount of: $30 was purchased successfully.
+Your credit limit is now: $6250
+
+credit limit is: 8000
+purchase made: 5
+]0;005178247@jb359-12:/students/csci/005178247/cse201/lab05]7;file://jb359-12.cse.csusb.edu/students/csci/005178247/cse201/lab05[005178247@jb359-12 lab05]$ exit
+exit
+
+Script done on Thu 16 Mar 2017 10:53:53 AM PDT
